@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Bioinformatics, Chongqing University of Posts and Telecommunications, 2013
 * M.S. in Information Science, University of Pittsburgh, 2019
-* Ph.D in Computational Biology,Joint CMU-Pitt PhD program in Computational Biology,University of Pittsburgh, 2025 (expected)
+* Ph.D in Computational Biology(CPCB program),University of Pittsburgh, 2025 (expected)
 
 Work experience
 ======
