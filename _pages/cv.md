@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bioinformatics, Chongqing University of Posts and Telecommunications, 2013
+* M.S. in Information Science, University of Pittsburgh, 2019
+* Ph.D in Computational Biology,Joint CMU-Pitt PhD program in Computational Biology,University of Pittsburgh, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016.07 -- 2017.01 2015: Research Assistant
+  * National Center for Protein Science, Beijing
+  * Duties included: Development of parallelizing algorithm for mass spectra clustering
+  * Supervisor: Dr. Hennning Hermjakob and Dr. Mingze Bai
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017.12 -- 2020.7 : Research Data Analyst
+  * University of Pittsrbugh
+  * Duties included: Development of informatics pipeline for MS based nanobody discovery
+  * Supervisor: Dr. Yi Shi
   
 Skills
 ======
