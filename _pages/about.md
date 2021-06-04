@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 My name is Zhe Sang(桑喆), a second year PhD student in Computational Biolog([CPCB program](http://www.compbio.cmu.edu)) at University of Pittsburgh. supervised by [Dr. Yi Shi](https://scholar.google.com/citations?user=BVeucPEAAAAJ&hl=en&oi=ao) at [Shi Lab](https://www.shi-lab.org).
+
 Since 2017, I worked with Dr. Yi Shi and Yufei Xiang to develop a disruptive mass spectrometry based techonolohy pipeline(Xiang, Yufei, et al. Cell Systems 12.3 (2021)) enabling discovery of tens of thousands high affinity/specifity nanobodies against literally any antigen of interest. Applying this techonology, we generated anti-HSA nanobody and fused with IL-2 to extend the serum half life and thus increase drug effacacy of IL-2. In an effort to fight against SARS-CoV-2, we also discovered thousands of high quality nanobodies that can specifically bind and neutralize the virus at 0.058 ng/mL(Xiang, Yufei, et al.Science 370.6523 (2020);Nambulli, Sham, et al.  Science Advances 7.22 (2021)). To reduce the potential immunogencity of nanobodies in human, I developed a software to facilate the rational humanization design that increase the sequence similarity to human antibodies and meanwhile retain the potent bioacivity. Collaboraing with Dr.Chris McKennan in Depatment of Statiscs at University of Pittsburgh, we are developing a statistical model conjugated with deep learning to get better and more peptide-spectrum matches(PSMs) for nanobody peptide identification.
+
 In a long term, there are a couple of research projects that I'm currently interested: 1) mining the massive nanobody sequence database to learn the underlying mechanism for affinity maturation 2) developing deeping learning model to predict better synthetic spectra 3) developing a method for computer-aided nanobody design.
 
 
-
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -51,4 +53,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
