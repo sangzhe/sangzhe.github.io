@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhe Sang personal website"
+title                    : "Zhe Sang"
 title_separator          : "-"
 name                     : &name "Zhe Sang"
 description              : &description "personal description"

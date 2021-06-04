@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Zhe Sang(桑喆), a second year PhD student in Computational Biolog([CPCB program](http://www.compbio.cmu.edu)) at University of Pittsburgh. supervised by [Dr. Yi Shi](https://scholar.google.com/citations?user=BVeucPEAAAAJ&hl=en&oi=ao) at [Shi Lab](https://www.shi-lab.org).
+Since 2017, I worked with Dr. Yi Shi and Yufei Xiang to develop a disruptive mass spectrometry based techonolohy pipeline(Xiang, Yufei, et al. Cell Systems 12.3 (2021)) enabling discovery of tens of thousands high affinity/specifity nanobodies against literally any antigen of interest. Applying this techonology, we generated anti-HSA nanobody and fused with IL-2 to extend the serum half life and thus increase drug effacacy of IL-2. In an effort to fight against SARS-CoV-2, we also discovered thousands of high quality nanobodies that can specifically bind and neutralize the virus at 0.058 ng/mL(Xiang, Yufei, et al.Science 370.6523 (2020);Nambulli, Sham, et al.  Science Advances 7.22 (2021)). To reduce the potential immunogencity of nanobodies in human, I developed a software to facilate the rational humanization design that increase the sequence similarity to human antibodies and meanwhile retain the potent bioacivity. Collaboraing with Dr.Chris McKennan in Depatment of Statiscs at University of Pittsburgh, we are developing a statistical model conjugated with deep learning to get better and more peptide-spectrum matches(PSMs) for nanobody peptide identification.
+In a long term, there are a couple of research projects that I'm currently interested: 1) mining the massive nanobody sequence database to learn the underlying mechanism for affinity maturation 2) developing deeping learning model to predict better synthetic spectra 3) developing a method for computer-aided nanobody design.
+
+
 
 A data-driven personal website
 ======
@@ -19,11 +23,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
